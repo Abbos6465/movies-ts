@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="27c62117-b442-46de-9a5e-acd0d4731d08" name="Changes" comment="" />
+    <list default="true" id="27c62117-b442-46de-9a5e-acd0d4731d08" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/home.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/home.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/components/ui/app-pagination.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/components/ui/app-pagination.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/app/components/ui/_app-card.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app/components/ui/_app-card.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/pages/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/pages/home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ts/components/ui/app-pagination.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/ts/components/ui/app-pagination.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ts/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/ts/main.ts" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +28,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -25,22 +42,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/abbosmehmonov/Desktop/tutorial/frontend/movies_v3/src/scss&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;watcher.settings&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/abbosmehmonov/Desktop/tutorial/frontend/movies_v3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "watcher.settings",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/scss" />
@@ -77,7 +95,9 @@
       <workItem from="1706029848533" duration="445000" />
       <workItem from="1706070364356" duration="16000" />
       <workItem from="1706185001800" duration="18587000" />
-      <workItem from="1706503879619" duration="31239000" />
+      <workItem from="1706503879619" duration="44402000" />
+      <workItem from="1706681891358" duration="12000" />
+      <workItem from="1706874824552" duration="1118000" />
     </task>
     <servers />
   </component>
@@ -89,14 +109,12 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/ts/main.ts</url>
-          <line>28</line>
-          <properties lambdaOrdinal="-1" />
+          <line>61</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/src/ts/main.ts</url>
-          <line>24</line>
-          <properties lambdaOrdinal="-1" />
+          <line>59</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
