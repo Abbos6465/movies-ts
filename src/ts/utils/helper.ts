@@ -1,0 +1,1 @@
+import {$} from "./pulign.js";const body = <HTMLBodyElement> $("body");export const toggleScrolling = ():void => {    body.classList.toggle("overflow-hidden");}

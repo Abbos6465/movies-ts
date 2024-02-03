@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="27c62117-b442-46de-9a5e-acd0d4731d08" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/scss/app/_elements.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/app/components/ui/_app-modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ts/components/ui/app-modal.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ts/components/ui/app-select.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ts/utils/helper.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/home.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/home.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/js/movies/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/movies/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/app/_general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app/_general.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/app/_mixin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app/_mixin.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/app/_style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app/_style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/app/components/ui/_app-button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app/components/ui/_app-button.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/app/components/ui/_app-pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app/components/ui/_app-pagination.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/app/components/ui/_app-select.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app/components/ui/_app-select.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/app/components/ui/_index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app/components/ui/_index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/pages/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/pages/home.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ts/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/ts/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ts/movies/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/ts/movies/index.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2bLTASwYlXhRfruMp11s7twu4xK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/abbosmehmonov/Desktop/tutorial/frontend/movies_v3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "watcher.settings",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/scss" />
+      <recent name="$PROJECT_DIR$/dist" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dist" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/scss/app" />
+      <recent name="$PROJECT_DIR$/src/scss/app/components/workplaces" />
+      <recent name="$PROJECT_DIR$/src/ts/app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/movies_v3/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27c62117-b442-46de-9a5e-acd0d4731d08" name="Changes" comment="" />
+      <created>1705993215413</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705993215413</updated>
+      <workItem from="1705993216450" duration="199000" />
+      <workItem from="1705993436743" duration="3843000" />
+      <workItem from="1706029848533" duration="445000" />
+      <workItem from="1706070364356" duration="16000" />
+      <workItem from="1706185001800" duration="18587000" />
+      <workItem from="1706503879619" duration="44402000" />
+      <workItem from="1706681891358" duration="12000" />
+      <workItem from="1706874824552" duration="20399000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/ts/main.ts</url>
+          <line>78</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/ts/main.ts</url>
+          <line>76</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
