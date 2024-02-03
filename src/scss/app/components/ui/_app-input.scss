@@ -1,1 +1,0 @@
-.app-input {  display: flex;  flex-direction: column;  row-gap: 4px;  &__label {    @include fontSize(14);  }  &__input {    width: 100%;    border: 0.8px solid rgba(0, 0, 0, 0.09);    font-size: 0.775rem;    height: 40px;    padding: 10px 12px;    border-radius: 8px;  }}
