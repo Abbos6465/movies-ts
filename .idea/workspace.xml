@@ -5,24 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27c62117-b442-46de-9a5e-acd0d4731d08" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/scss/app/_elements.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scss/app/components/ui/_app-modal.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ts/components/ui/app-modal.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ts/components/ui/app-select.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ts/utils/helper.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/home.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/css/home.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/home.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/js/movies/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/js/movies/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/app/_general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app/_general.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/app/_mixin.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app/_mixin.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/app/_style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app/_style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/app/components/ui/_app-button.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app/components/ui/_app-button.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/app/components/ui/_app-pagination.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app/components/ui/_app-pagination.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/app/components/ui/_app-select.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app/components/ui/_app-select.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/scss/app/components/ui/_index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app/components/ui/_index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/app/_container.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/app/_container.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/scss/pages/home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/pages/home.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ts/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/ts/main.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ts/movies/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/ts/movies/index.ts" afterDir="false" />
@@ -42,6 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Abbos6465"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Abbos6465/movies-ts.git",
+    "accountId": "a1d6dd62-ca83-4662-8ac1-a4f779575179"
+  }
+}]]></component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -66,7 +64,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "watcher.settings",
-    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -93,6 +91,13 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-WS-241.15989.105" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -108,7 +113,14 @@
       <workItem from="1706185001800" duration="18587000" />
       <workItem from="1706503879619" duration="44402000" />
       <workItem from="1706681891358" duration="12000" />
-      <workItem from="1706874824552" duration="20399000" />
+      <workItem from="1706874824552" duration="20733000" />
+      <workItem from="1706990563417" duration="1310000" />
+      <workItem from="1708094372088" duration="636000" />
+      <workItem from="1708432080086" duration="642000" />
+      <workItem from="1709494466019" duration="757000" />
+      <workItem from="1713032965885" duration="2380000" />
+      <workItem from="1713082790320" duration="190000" />
+      <workItem from="1717675258755" duration="1110000" />
     </task>
     <servers />
   </component>

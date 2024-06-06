@@ -1,1 +1,1 @@
-.container {  max-width: 1440px;  padding: 0 20px;  margin: 0 auto;}
+.container {  max-width: 1440px;  padding: 0 20px;  margin: 0 auto;  @include max-xl{    max-width: 1280px;  }  @include max-lg{    max-width: 1040px;  }}

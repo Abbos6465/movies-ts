@@ -102,6 +102,10 @@ const paginationHandler = () => {
     }
 };
 renderMovies();
+const searchForm = $("#searchForm");
+searchForm.addEventListener("submit", event => {
+    event.preventDefault();
+});
 const movieName = $("#movieName");
 const movieRate = $("#movieRate");
 const filterMovies = () => {
